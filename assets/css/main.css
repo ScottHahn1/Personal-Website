@@ -4592,7 +4592,7 @@ input, select, textarea {
 			-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 			border: 0;
 			color: #909498;
-			cursor: pointer;
+			cursor: default;
 			display: block;
 			height: 3.25rem;
 			line-height: 3.25rem;
