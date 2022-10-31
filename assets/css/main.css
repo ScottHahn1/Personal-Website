@@ -2401,7 +2401,7 @@ input, select, textarea {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			cursor: pointer;
+			cursor: default;
 			display: inline-block;
 			font-size: 1rem;
 			letter-spacing: 0;
