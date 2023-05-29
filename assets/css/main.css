@@ -3231,7 +3231,6 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 100%;
-			/* background-color: hsl(150, 100%, 35%); */
 			background-color: hsl(140, 100%, 40%);
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
@@ -3264,7 +3263,7 @@ input, select, textarea {
 
 	#intro {
 		color: #ffffff;
-		padding: 8rem 4rem 6rem 4rem ;
+		padding: 8rem 4rem 6rem 4rem;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -3289,7 +3288,7 @@ input, select, textarea {
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-		min-height: 100vh;
+		/* min-height: 100vh; */
 	}
 
 		#intro input, #intro select, #intro textarea {
@@ -3312,7 +3311,7 @@ input, select, textarea {
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
 			color: #ffffff;
-			color: black;
+			/* color: black; */
 		}
 
 		#intro blockquote {
